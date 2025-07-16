@@ -24,6 +24,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "scheme": "musicfun",
+    "plugins": [
+      "expo-secure-store"
+    ]
   }
 }
